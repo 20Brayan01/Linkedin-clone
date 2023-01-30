@@ -8,6 +8,9 @@ const Main = (props) => {
     )
 };
 
-const Container = styled.div``;
+const Container = styled.div`
+
+    grid-area: main;
+`;
 
 export default Main;
